@@ -9,6 +9,6 @@ In the directory of each topic you can find `file.php` for each problem .
 - write time and space complexity big O.
 - insert your linkedin link 
 
-`To see an example you can check demo directory`
+`To see an example you can check problem 1 directory`
  
 
