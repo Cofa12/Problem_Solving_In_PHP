@@ -1,7 +1,7 @@
 <?php
 
 /*
- * time O(log(n))
+ * time O(n)
  * space O(1)
  *
  * https://www.linkedin.com/in/mahmoud-gamal-98a7b41b1/
